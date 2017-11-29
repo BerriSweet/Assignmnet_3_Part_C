@@ -1,0 +1,10 @@
+E:\Stuff\Diploma\TinderBayTest\TinderBayUnitTests\TinderBayUnitTestsTests\bin\Debug\TinderBayUnitTestsTests.dll
+E:\Stuff\Diploma\TinderBayTest\TinderBayUnitTests\TinderBayUnitTestsTests\bin\Debug\TinderBayUnitTestsTests.pdb
+E:\Stuff\Diploma\TinderBayTest\TinderBayUnitTests\TinderBayUnitTestsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Stuff\Diploma\TinderBayTest\TinderBayUnitTests\TinderBayUnitTestsTests\bin\Debug\TinderBayUnitTests.exe
+E:\Stuff\Diploma\TinderBayTest\TinderBayUnitTests\TinderBayUnitTestsTests\bin\Debug\TinderBayUnitTests.pdb
+E:\Stuff\Diploma\TinderBayTest\TinderBayUnitTests\TinderBayUnitTestsTests\obj\Debug\TinderBayUnitTestsTests.csprojResolveAssemblyReference.cache
+E:\Stuff\Diploma\TinderBayTest\TinderBayUnitTests\TinderBayUnitTestsTests\obj\Debug\TinderBayUnitTestsTests.dll
+E:\Stuff\Diploma\TinderBayTest\TinderBayUnitTests\TinderBayUnitTestsTests\obj\Debug\TinderBayUnitTestsTests.pdb
+E:\Stuff\Diploma\TinderBayTest\TinderBayUnitTests\TinderBayUnitTestsTests\bin\Debug\Newtonsoft.Json.dll
+E:\Stuff\Diploma\TinderBayTest\TinderBayUnitTests\TinderBayUnitTestsTests\bin\Debug\Newtonsoft.Json.xml

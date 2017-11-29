@@ -1,0 +1,10 @@
+E:\Stuff\Diploma\TinderBayTest\TinderBayUnitTests\TinderBayUnitTests\bin\Debug\TinderBayUnitTests.exe.config
+E:\Stuff\Diploma\TinderBayTest\TinderBayUnitTests\TinderBayUnitTests\bin\Debug\TinderBayUnitTests.exe
+E:\Stuff\Diploma\TinderBayTest\TinderBayUnitTests\TinderBayUnitTests\bin\Debug\TinderBayUnitTests.pdb
+E:\Stuff\Diploma\TinderBayTest\TinderBayUnitTests\TinderBayUnitTests\obj\Debug\TinderBayUnitTests.csprojResolveAssemblyReference.cache
+E:\Stuff\Diploma\TinderBayTest\TinderBayUnitTests\TinderBayUnitTests\obj\Debug\TinderBayUnitTests.Properties.Resources.resources
+E:\Stuff\Diploma\TinderBayTest\TinderBayUnitTests\TinderBayUnitTests\obj\Debug\TinderBayUnitTests.csproj.GenerateResource.Cache
+E:\Stuff\Diploma\TinderBayTest\TinderBayUnitTests\TinderBayUnitTests\obj\Debug\TinderBayUnitTests.exe
+E:\Stuff\Diploma\TinderBayTest\TinderBayUnitTests\TinderBayUnitTests\obj\Debug\TinderBayUnitTests.pdb
+E:\Stuff\Diploma\TinderBayTest\TinderBayUnitTests\TinderBayUnitTests\bin\Debug\Newtonsoft.Json.dll
+E:\Stuff\Diploma\TinderBayTest\TinderBayUnitTests\TinderBayUnitTests\bin\Debug\Newtonsoft.Json.xml
